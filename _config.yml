@@ -23,14 +23,18 @@ title: 심플하게 살자                          # the main title
 
 tagline: 그게 제일 힘들더라.   # it will display as the sub-title
 
-description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+description: ".."                        # used by seo meta and the atom feed
+  
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://xxxrichtiger.github.io/'
 
 github:
   username: xxxrichtiger             # change to your github username
+
+twitter:
+  username: ""             
+
 
 social:
   # Change to your full name.
@@ -41,7 +45,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/xxxrichtiger       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+     https://www.facebook.com/kalva1979
     # - https://www.linkedin.com/in/username
 
 google_site_verification:               # fill in to your verification string
